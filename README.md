@@ -119,4 +119,4 @@ with open("bilibili_comment.txt", "w", encoding="utf-8") as fp:
 # <a id="para6">因为api接口已经变成了wbi加密的所以原来的接口寻找方式已经没用了，所以下面的方法就删除了，降低大家的阅读难度。(2024.9.22修改)
 
 ## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=LemonAttn/bilibili_comment_crawl&type=Date)](https://star-history.com/#LemonAttn/bilibili_comment_crawl&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=lemonmindyes/bilibili_comment_crawl&type=Date)](https://www.star-history.com/#lemonmindyes/bilibili_comment_crawl&Date)
