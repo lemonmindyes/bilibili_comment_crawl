@@ -1,4 +1,5 @@
 # &#x1F308;&#x1F308;&#x1F308;bilibili评论爬取&#x1F308;&#x1F308;&#x1F308;
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=lemonmindyes/bilibili_comment_crawl)
 
 # 如果遇到代码已经无法运行了请及时提醒我，可以提Issues，我会尽快更新！！！！！！
 
