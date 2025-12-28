@@ -2,6 +2,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lemonmindyes/bilibili_comment_crawl)
 
 # 如果遇到代码已经无法运行了请及时提醒我，可以提Issues，我会尽快更新！！！！！！
+# 该仓库依旧可用，但是提供更多的api函数供使用，新仓库的网址https://github.com/lemonmindyes/bilibili_info_crawler
 
 本人比较喜欢做情感分析的NLP项目，因此突发奇想想到去B站收集信息。
 
